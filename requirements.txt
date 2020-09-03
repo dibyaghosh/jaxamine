@@ -1,0 +1,5 @@
+atari-py
+absl-py
+gin-config
+jax
+tensorboardX
